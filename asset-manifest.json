@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Budget-calculator-React-/static/css/main.8e1e3ecb.chunk.css",
-    "main.js": "/Budget-calculator-React-/static/js/main.8195df71.chunk.js",
-    "main.js.map": "/Budget-calculator-React-/static/js/main.8195df71.chunk.js.map",
-    "runtime-main.js": "/Budget-calculator-React-/static/js/runtime-main.31358d8f.js",
-    "runtime-main.js.map": "/Budget-calculator-React-/static/js/runtime-main.31358d8f.js.map",
-    "static/js/2.2e28d981.chunk.js": "/Budget-calculator-React-/static/js/2.2e28d981.chunk.js",
-    "static/js/2.2e28d981.chunk.js.map": "/Budget-calculator-React-/static/js/2.2e28d981.chunk.js.map",
-    "static/js/3.1e89036c.chunk.js": "/Budget-calculator-React-/static/js/3.1e89036c.chunk.js",
-    "static/js/3.1e89036c.chunk.js.map": "/Budget-calculator-React-/static/js/3.1e89036c.chunk.js.map",
-    "index.html": "/Budget-calculator-React-/index.html",
-    "static/css/main.8e1e3ecb.chunk.css.map": "/Budget-calculator-React-/static/css/main.8e1e3ecb.chunk.css.map",
-    "static/js/2.2e28d981.chunk.js.LICENSE.txt": "/Budget-calculator-React-/static/js/2.2e28d981.chunk.js.LICENSE.txt"
+    "main.css": "/Budget-calculator-React/static/css/main.8e1e3ecb.chunk.css",
+    "main.js": "/Budget-calculator-React/static/js/main.8195df71.chunk.js",
+    "main.js.map": "/Budget-calculator-React/static/js/main.8195df71.chunk.js.map",
+    "runtime-main.js": "/Budget-calculator-React/static/js/runtime-main.47c0ed07.js",
+    "runtime-main.js.map": "/Budget-calculator-React/static/js/runtime-main.47c0ed07.js.map",
+    "static/js/2.2e28d981.chunk.js": "/Budget-calculator-React/static/js/2.2e28d981.chunk.js",
+    "static/js/2.2e28d981.chunk.js.map": "/Budget-calculator-React/static/js/2.2e28d981.chunk.js.map",
+    "static/js/3.1e89036c.chunk.js": "/Budget-calculator-React/static/js/3.1e89036c.chunk.js",
+    "static/js/3.1e89036c.chunk.js.map": "/Budget-calculator-React/static/js/3.1e89036c.chunk.js.map",
+    "index.html": "/Budget-calculator-React/index.html",
+    "static/css/main.8e1e3ecb.chunk.css.map": "/Budget-calculator-React/static/css/main.8e1e3ecb.chunk.css.map",
+    "static/js/2.2e28d981.chunk.js.LICENSE.txt": "/Budget-calculator-React/static/js/2.2e28d981.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.31358d8f.js",
+    "static/js/runtime-main.47c0ed07.js",
     "static/js/2.2e28d981.chunk.js",
     "static/css/main.8e1e3ecb.chunk.css",
     "static/js/main.8195df71.chunk.js"
