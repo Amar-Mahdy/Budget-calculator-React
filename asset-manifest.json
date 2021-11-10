@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/https//Amar-Mahdy.github.io/Budget-calculator-React-/static/css/main.8e1e3ecb.chunk.css",
+    "main.js": "/https//Amar-Mahdy.github.io/Budget-calculator-React-/static/js/main.8195df71.chunk.js",
+    "main.js.map": "/https//Amar-Mahdy.github.io/Budget-calculator-React-/static/js/main.8195df71.chunk.js.map",
+    "runtime-main.js": "/https//Amar-Mahdy.github.io/Budget-calculator-React-/static/js/runtime-main.134f2c3e.js",
+    "runtime-main.js.map": "/https//Amar-Mahdy.github.io/Budget-calculator-React-/static/js/runtime-main.134f2c3e.js.map",
+    "static/js/2.2e28d981.chunk.js": "/https//Amar-Mahdy.github.io/Budget-calculator-React-/static/js/2.2e28d981.chunk.js",
+    "static/js/2.2e28d981.chunk.js.map": "/https//Amar-Mahdy.github.io/Budget-calculator-React-/static/js/2.2e28d981.chunk.js.map",
+    "static/js/3.1e89036c.chunk.js": "/https//Amar-Mahdy.github.io/Budget-calculator-React-/static/js/3.1e89036c.chunk.js",
+    "static/js/3.1e89036c.chunk.js.map": "/https//Amar-Mahdy.github.io/Budget-calculator-React-/static/js/3.1e89036c.chunk.js.map",
+    "index.html": "/https//Amar-Mahdy.github.io/Budget-calculator-React-/index.html",
+    "static/css/main.8e1e3ecb.chunk.css.map": "/https//Amar-Mahdy.github.io/Budget-calculator-React-/static/css/main.8e1e3ecb.chunk.css.map",
+    "static/js/2.2e28d981.chunk.js.LICENSE.txt": "/https//Amar-Mahdy.github.io/Budget-calculator-React-/static/js/2.2e28d981.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.134f2c3e.js",
+    "static/js/2.2e28d981.chunk.js",
+    "static/css/main.8e1e3ecb.chunk.css",
+    "static/js/main.8195df71.chunk.js"
+  ]
+}
